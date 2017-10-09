@@ -1,0 +1,9 @@
+{
+  "name": "puppeteer-plugin-tester",
+  "version": "0.1.0",
+  "description": "Utilities for testing puppeteer plugins",
+  "main": "src/index.js",
+  "repository": "git@github.com:zzarcon/puppeteer-plugin-tester.git",
+  "author": "Hector Leon Zarco Garcia <hezarco@gmail.com>",
+  "license": "MIT"
+}
